@@ -70,3 +70,7 @@ print("The stock of product index three is: ", products[2]["stock"][1]["black-sm
 
 
 #TODO CHANGE black small quantity - products[2]
+
+products[2]["stock"][1]["black-small"] = 18
+print()
+print("The updated stock of product index three is: ", products[2]["stock"][1]["black-small"])
