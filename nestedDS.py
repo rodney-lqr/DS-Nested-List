@@ -65,6 +65,8 @@ print()
 print("The stocks of product index two is: ", products[2]["stock"])
 
 #TODO ACCESS INDEX 3 STOCK OF products[2]
+print()
+print("The stock of product index three is: ", products[2]["stock"][1]["black-small"])
 
 
 #TODO CHANGE black small quantity - products[2]
